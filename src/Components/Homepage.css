@@ -1,0 +1,35 @@
+.home-container {
+  text-align: center;
+}
+
+.newRoombtn {
+  box-shadow: 2px 2px 5px;
+  border: none;
+  border-radius: 20px;
+  font-size: 20px;
+  padding: 10px;
+}
+
+.eachDiv {
+  margin: 5px;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center ;
+  width: 100px;
+  height: 100px;
+  border-radius: 20px;
+  border: 1px solid black;
+  box-shadow: 1px 1px 5px;
+}
+
+.eachDiv:hover, .newRoombtn{
+  cursor: pointer;
+}
+
+.roomsDiv {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+

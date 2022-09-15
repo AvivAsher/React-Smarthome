@@ -1,0 +1,38 @@
+.addRoom-container {
+    text-align: center;
+}
+
+.addRoom-container h1 {
+    word-spacing: 7px;
+}
+
+.addRoom-container select{
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+    width: 210px;
+    font-size: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.addRoom-container input{
+    font-family: 'Dosis', sans-serif;
+    width: 191px;
+    font-size: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+.addRoomBtn {
+    box-shadow: 2px 2px 5px;
+    border: none;
+    border-radius: 20px;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.addRoomBtn:hover {
+    cursor: pointer;
+}
